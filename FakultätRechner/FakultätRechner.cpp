@@ -44,8 +44,6 @@ int main()
     }
 
     printf_s("Fakultät davon ist %d\n", sum);
-    printf_s("Teehee!");
-
 
     return 0;
 }
