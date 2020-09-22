@@ -1,0 +1,105 @@
+/*******************************************************************************
+* Programm:                                                                      
+* Filename:   .c
+*			   									   
+* Autor:      Andrin Urech						  						   								   									   
+* Version:    1.0				   			   								   									   
+* Datum:      
+*
+* Entwicklungsablauf(Version, Datum, Autor, Entwicklungsschritt, Zeit):
+* 1.0  						   									   
+********************************************************************************
+*
+* Verwendungszweck: C-Schulung, M304
+*
+* Beschreibung: 
+*     
+* 
+* Precondition:  -
+*
+* Postcondition: -
+*
+* Benötigte Libraries:
+* - iostream
+*
+* Copyright (c) 2020 by Andrin Urech
+*******************************************************************************/
+
+/***  Include Files ***********************************************************/
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+/***  Globale Deklarationen und Definitionen **********************************/
+
+
+/***  Funktions-Deklarationen *************************************************/
+#pragma region Funktinos-Deklarationen
+
+#pragma endregion
+
+
+/*******************************************************************************
+******************************* HAUPTPROGRAMM **********************************
+*******************************************************************************/
+int main(void) {
+    
+  // lokale Variablen                                                                  
+
+
+  /* Intro --------------------- */
+
+
+  /* Eingabe ------------------- */
+  
+  
+  /* Verarbeitung -------------- */
+  
+  
+  /* Ausgabe ------------------- */      
+
+
+  return (0);
+}
+
+
+
+/*******************************************************************************
+*************************** FUNKTIONS-DEFINITIONEN *****************************
+*******************************************************************************/
+
+/*******************************************************************************
+* Funktion:  
+* Source: 	  .c
+* Call:      	   			   
+*									   									   
+* Autor:     Andrin Urech						  						   								   									   
+* Version:   1.0				   			   								   									   
+* Datum: 	   
+*
+* Entwicklungsablauf(Version, Datum, Autor, Entwicklungsschritt):
+* 1.0								   									   
+********************************************************************************
+*
+* Verwendungszweck: C-Schulung, M304
+*
+* Beschreibung:
+* 
+* 
+* Precondition: -
+*
+* Postcondition: -
+*
+* Benötigte Unterprogramme: -
+*
+* Parameter:
+*   Input:
+*   Output:
+*   Update:
+*   Return:
+* 
+*
+* Copyright (c) 2020 by Andrin Urech
+*******************************************************************************/
+
